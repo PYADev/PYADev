@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning new things.
 - ⚡ Fun fact: This is my GitHub page.
 
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyadev&count_private=true&theme=blue-green)
 
+## Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyadev&theme=blue-green)
